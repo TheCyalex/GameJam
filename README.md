@@ -1,2 +1,4 @@
 # GameJam
-Initial repo for the GameJam
+
+
+I will add all info and software necesarry as time progresses.
